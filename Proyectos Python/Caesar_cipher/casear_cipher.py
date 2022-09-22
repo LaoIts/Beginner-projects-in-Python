@@ -38,5 +38,5 @@ if direccion == "encode":
 elif direccion == "decode":
     decrypt(shift = shiftNumber,texto = text)
 else:
-    print("???")
+    print("Thats not what I want")
 

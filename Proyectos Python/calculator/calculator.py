@@ -26,7 +26,7 @@ while playA:
         print("Bay bay")
         playA = False
     else:
-        print("???")
+        print("Thats not what I want")
 
 
 

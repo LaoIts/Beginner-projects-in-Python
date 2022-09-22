@@ -39,7 +39,7 @@ while play:
         
     else:
         play = False
-        print("??????")
+        print("Thats not what I want")
 
 mostBid(bidders)
 
