@@ -100,17 +100,3 @@ while repeat:
             payment = process_coins()
             if isTransactionSuccessful(payment, drink["Cost"]):
                 makeCoffee(answer, drink["ingredients"])
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
